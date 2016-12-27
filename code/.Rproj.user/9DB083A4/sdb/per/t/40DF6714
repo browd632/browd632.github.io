@@ -1,0 +1,28 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1482185134985.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "40DF6714",
+    "lastKnownWriteTime" : 4300086784,
+    "last_content_update" : 1482185134985,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "g2jmmqke5i",
+        "caption" : "nyccdboundwi",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=nyccdboundwi&cache_key=g2jmmqke5i",
+        "displayedObservations" : 71,
+        "environment" : "",
+        "object" : "nyccdboundwi",
+        "totalObservations" : 71,
+        "variables" : 4
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

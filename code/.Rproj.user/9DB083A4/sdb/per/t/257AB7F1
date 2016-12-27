@@ -1,0 +1,28 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1482185301699.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "257AB7F1",
+    "lastKnownWriteTime" : 0,
+    "last_content_update" : 1482185301699,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "kcylj3df6a",
+        "caption" : "nyccdboundjoin",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=nyccdboundjoin&cache_key=kcylj3df6a",
+        "displayedObservations" : 71,
+        "environment" : "",
+        "object" : "nyccdboundjoin",
+        "totalObservations" : 71,
+        "variables" : 7
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

@@ -1,0 +1,28 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1482185735258.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "DF41316",
+    "lastKnownWriteTime" : 4467523584,
+    "last_content_update" : 1482185735258,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "iqk08sk3uf",
+        "caption" : "nyccdboundjoinordered",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=nyccdboundjoinordered&cache_key=iqk08sk3uf",
+        "displayedObservations" : "71",
+        "environment" : "",
+        "object" : "nyccdboundjoinordered",
+        "totalObservations" : "71",
+        "variables" : "5"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
